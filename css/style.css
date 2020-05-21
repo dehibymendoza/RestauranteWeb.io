@@ -399,17 +399,17 @@ body {
 -------------------------------------------------------------------*/
 
 .banner {
-    background: url(../images/banner.jpg) no-repeat center top;
+    background: url(../images/banners.jpg) no-repeat center top;
     background-attachment: fixed;
     background-size: cover;
-    height: 100vh;
-    min-height: 100%;
+    height: 90vh;
+    min-height: 90%;
 }
 
 .banner .container,
 .banner .banner-static,
 .banner .col-lg-12 {
-    height: 100%;
+    height: 90%;
 }
 
 .banner-text {
